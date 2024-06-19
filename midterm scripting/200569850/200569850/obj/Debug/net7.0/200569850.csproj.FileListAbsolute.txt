@@ -1,0 +1,8 @@
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.csproj.AssemblyReference.cache
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.AssemblyInfoInputs.cache
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.AssemblyInfo.cs
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.csproj.CoreCompileInputs.cache
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.MvcApplicationPartsAssemblyInfo.cache
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.RazorAssemblyInfo.cache
+/Users/bhuwanpoudel/Desktop/midterm scripting/200569850/200569850/obj/Debug/net7.0/200569850.RazorAssemblyInfo.cs
